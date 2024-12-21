@@ -38,7 +38,7 @@ Chart Type: Donut/Pie Chart.
 Objective: Assess the geographic distribution of sales across different locations.<br>
 Chart Type: Funnel Map.
 
-<li><b>All Metrics by Outlet Type:</b></li>
+<li><h3><b>All Metrics by Outlet Type:</b></h3></li>
 
 Objective: Provide a comprehensive view of all key metrics (Total Sales, Average Sales, Number of Items, Average Rating) broken down by different outlet types.
 Chart Type: Matrix Card.</ol>
